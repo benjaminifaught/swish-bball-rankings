@@ -4,6 +4,8 @@ SWISH (Schedule-Weighted Independent Selection & Seeding Hierarchy) is a local
 Dash app for exploring a college basketball selection model, projected tournament
 field, and season simulations.
 
+![SWISH selection board](assets/swish-dashboard.png)
+
 ## Requirements
 
 - Python 3.9 or newer
