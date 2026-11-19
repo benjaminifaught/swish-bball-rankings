@@ -1,0 +1,5 @@
+date,team,opponent,location,won,is_conf,is_conf_tourney
+20261104,Duke,Arizona,N,True,False,False
+20261104,Arizona,Duke,N,False,False,False
+20261110,Gonzaga,Miami (Ohio),H,True,False,False
+20261110,Miami (Ohio),Gonzaga,A,False,False,False
